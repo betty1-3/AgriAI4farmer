@@ -115,6 +115,7 @@ function App() {
                 Analysis of soil pH, nutrients, and moisture levels with real-time monitoring and predictive analytics for optimal crop conditions.
               </p>
             </div>
+          </a>
 
             {/* Weather Forecasting */}
             <a
